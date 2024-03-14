@@ -241,6 +241,7 @@ textarea {
     animation: spin 1s ease-in-out infinite;
     margin-left: -60px;
     margin-top: -60px;
+    
 }
 
 @-webkit-keyframes spin {
